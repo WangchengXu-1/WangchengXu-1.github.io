@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![Photo](/docs/assets/images/photo.jpg)
+![Photo](/assets/images/photo.jpg)
 
 You can use the [editor on GitHub](https://github.com/WangchengXu-1/WangchengXu-1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
